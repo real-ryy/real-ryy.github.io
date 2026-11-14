@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://realryy.my.id/sitemap.xml
